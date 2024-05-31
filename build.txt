@@ -1,0 +1,4 @@
+displayName = More Batons [ThoriumMod]
+author = MrQuba
+version = 1.0
+modReferences = ThoriumMod

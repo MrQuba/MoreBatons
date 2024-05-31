@@ -1,0 +1,1 @@
+This is an add-on for ThoriumMod. This mod adds more batons (and AntyBatons) for Healer class in ThoriumMod.

@@ -1,0 +1,141 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	BorealBaton: {
+		DisplayName: Boreal Wood Baton
+		Tooltip: Spins a flimsy boreal wood baton all around you. Inflicts Frostburn. Wonder what will happen when you throw broken one into the Shimmer
+	}
+
+	AshBaton: {
+		DisplayName: Ash Wood Baton
+		Tooltip: Spins a flimsy ash wood baton all around you. Inflicts On Fire. Wonder what will happen when you throw broken one into the Shimmer
+	}
+
+	LivingBaton: {
+		DisplayName: Living Wood Baton
+		Tooltip: Spins a flimsy living wood baton all around you. Wonder what will happen when you throw broken one into the Shimmer
+	}
+
+	ShadeBaton: {
+		DisplayName: Shadewood Baton
+		Tooltip: Spins a flimsy shadewood baton all around you. Can confuse enemies. Wonder what will happen when you throw broken one into the Shimmer
+	}
+
+	DynastyBaton: {
+		DisplayName: Dynasty Wood Baton
+		Tooltip: Spins a flimsy dynasty wood baton all around you. Wonder what will happen when you throw broken one into the Shimmer
+	}
+
+	MahoganyBaton: {
+		DisplayName: Rich Mahogany Wood Baton
+		Tooltip: Spins a flimsy rich mahogany wood baton all around you. Can confuse enemies. Wonder what will happen when you throw broken one into the Shimmer
+	}
+
+	PalmBaton: {
+		DisplayName: Palm Wood Baton
+		Tooltip: Spins a flimsy palm wood baton all around you. Slows enemies. Wonder what will happen when you throw broken one into the Shimmer
+	}
+
+	PearlBaton: {
+		DisplayName: Pearlwood Baton
+		Tooltip: Spins a flimsy pearlwood baton all around you. Wonder what will happen when you take broken one to the Shimmer
+	}
+
+	AntyBaton: {
+		DisplayName: Anty Baton
+		Tooltip: Shoots Anty Baton mousse. It tastes like Mango!
+	}
+
+	EbonBaton: {
+		DisplayName: Ebonwood Baton
+		Tooltip: Spins a flimsy ebonwood baton all around you. Wonder what will happen when you take broken one to the Shimmer
+	}
+
+	CrunchyCoconutsAntyBaton: {
+		DisplayName: Crunchy Coconuts Anty Baton
+		Tooltip: Shoots Crunchy Coconuts mousse.
+	}
+
+	MangoAntyBaton: {
+		DisplayName: Mango Anty Baton
+		Tooltip: Shoots Mango mousse.
+	}
+
+	YewBaton: {
+		DisplayName: Yew Baton
+		Tooltip: Spins a flimsy yew wood baton all around you. Wonder what will happen when you take broken one to the Shimmer
+	}
+
+	ChocoCookieAntyBaton: {
+		DisplayName: Choco Cookie Anty Baton
+		Tooltip: Shoots Chocolate Cookie mousse.
+	}
+
+	AnanasAntyBaton: {
+		DisplayName: Ananas Anty Baton
+		Tooltip: Shoots Ananas mousse.
+	}
+
+	AppleCakeAntyBaton: {
+		DisplayName: Apple Cake Anty Baton
+		Tooltip: Shoots Apple Cake mousse.
+	}
+
+	ChocoNutsAntyBaton: {
+		DisplayName: Choco Nuts Anty Baton
+		Tooltip: Shoots Cholocate Nuts mousse.
+	}
+
+	CocoAntyBaton: {
+		DisplayName: Coco Anty Baton
+		Tooltip: Shoots Coconut mousse.
+	}
+
+	CrunchyPeanutsAntyBaton: {
+		DisplayName: Crunchy Peanuts Anty Baton
+		Tooltip: Shoots Crunchy Peanuts mousse.
+	}
+
+	PassionFruitAntyBaton: {
+		DisplayName: Passion Fruit Anty Baton
+		Tooltip: Shoots Passion Fruit mousse.
+	}
+
+	TartAntyBaton: {
+		DisplayName: Tart Anty Baton
+		Tooltip: Shoots Tart mousse.
+	}
+
+	CrunchyWaferAntyBaton: {
+		DisplayName: Crunchy Wafer Anty Baton
+		Tooltip: Shoots Crunchy Wafer mousse.
+	}
+}
+
+Projectiles: {
+	BorealBatonProjectile.DisplayName: Boreal Wood Baton Projectile
+	AshBatonProjectile.DisplayName: Ash Wood Baton Projectile
+	LivingBatonProjectile.DisplayName: Living Wood Baton Projectile
+	ShadeBatonProjectile.DisplayName: Shadewood Baton Projectile
+	DynastyBatonProjectile.DisplayName: Dynasty Wood Baton Projectile
+	MahoganyBatonProjectile.DisplayName: Mahogany Wood Baton Projectile
+	PalmBatonProjectile.DisplayName: Palm Wood Baton Projectile
+	PearlBatonProjectile.DisplayName: Pearlwood Baton Projectile
+	AntyBatonProjectile.DisplayName: Anty Baton Projectile
+	EbonBatonProjectile.DisplayName: Ebonwood Baton Projectile
+	EbonBatonSecondAttack.DisplayName: Ebonwood Baton Second Attack
+	CrunchyCoconutsAntyBatonProjectile.DisplayName: Crunchy Coconuts Anty Baton Projectile
+	MangoAntyBatonProjectile.DisplayName: Mango Anty Baton Projectile
+	YewBatonProjectile.DisplayName: Yew Baton Projectile
+	ChocoCookieAntyBatonProjectile.DisplayName: Choco Cookie Anty Baton Projectile
+	AnanasAntyBatonProjectile.DisplayName: Ananas Anty Baton Projectile
+	AppleCakeAntyBatonProjectile.DisplayName: Apple Cake Anty Baton Projectile
+	ChocoNutsAntyBatonProjectile.DisplayName: Choco Nuts Anty Baton Projectile
+	CocoAntyBatonProjectile.DisplayName: Coco Anty Baton Projectile
+	CrunchyPeanutsAntyBatonProjectile.DisplayName: Crunchy Peanuts Anty Baton Projectile
+	PassionFruitAntyBatonProjectile.DisplayName: Passion Fruit Anty Baton Projectile
+	TartAntyBatonProjectile.DisplayName: Tart Anty Baton Projectile
+	CrunchyWaferAntyBatonProjectile.DisplayName: Crunchy Wafer Anty Baton Projectile
+}
+
+Common.BatonCondition: Only craftable if prefix of baton is 'Broken'
